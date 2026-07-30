@@ -125,7 +125,7 @@ git clone https://github.com/your-username/daily-planner-ai-agent.git
 
 ## 📷 Demo
 
-Import the workflow into n8n and start chatting with your AI Daily Planner.
+<img width="1897" height="917" alt="image" src="https://github.com/user-attachments/assets/20854a36-e0c9-4944-91cc-18b2dc290e76" />
 
 ---
 
@@ -150,4 +150,3 @@ This project is licensed under the MIT License.
 
 **Swati Jadhav**
 
-GitHub: https://github.com/swati2064
